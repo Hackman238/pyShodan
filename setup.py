@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyShodan",
-    version="0.2.15",
+    version="0.2.16",
     author="Shane Scott",
     author_email="gs@shanewilliamscott.com",
     description="Python library for querying the Shodan API",
